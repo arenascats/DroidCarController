@@ -5,7 +5,11 @@ As a base，the arduino frameware could control servo and electron speed regulat
 
 DroidCarController is a expenimental base，which design for test accel and gyro in ealier version,I using excel and .csv style and c# upper software to process data.
 
-My teacher give me a idea,in ealier with 2016,i complete 80% with 1 weak, I added some function to make it could receive command,running throw series byte.
+
+
+My teacher give me a idea,in ealier with 2016,i complete 80% with 1 weak.I added some function to make it could receive command,running throw series command,like a controller,not a mpu6050 data port only.
+
+
 
 
 #Some function introduction
