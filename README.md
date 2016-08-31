@@ -14,6 +14,11 @@ My teacher give me a idea,in ealier with 2016,i complete 80% with 1 weak.I added
 
 #Some function introduction
 
+
 1.Output information from serial
+
+
 2.Could control servo and electron speed regulator with standard port(not only pwm port) 
+
+
 3.Receive serial command and control
